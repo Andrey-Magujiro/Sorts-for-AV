@@ -1,0 +1,14 @@
+﻿  main.cpp
+d:\c++\project_8\project_8\selectsort.h(10): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c++\project_8\project_8\insertsort.h(9): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c++\project_8\project_8\bubblesort.h(9): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c++\project_8\project_8\bubblesort.h(11): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c++\project_8\project_8\setarrfromfile.h(12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\c++\project_8\project_8\setarrfromfile.h(35): warning C4101: a: неиспользованная локальная переменная
+d:\c++\project_8\project_8\setarrfromfile.h(51): warning C4101: a: неиспользованная локальная переменная
+d:\c++\project_8\project_8\client.h(23): warning C4101: a: неиспользованная локальная переменная
+d:\c++\project_8\project_8\client.h(78): warning C4715: Client: значение возвращается не при всех путях выполнения
+d:\c++\project_8\project_8\setarrfromfile.h(58): warning C4715: setArrFromFile: значение возвращается не при всех путях выполнения
+d:\c++\project_8\project_8\setarrfromfile.h(29): warning C4715: whriteToFile: значение возвращается не при всех путях выполнения
+  project_8.vcxproj -> D:\c++\project_8\Debug\project_8.exe
+  project_8.vcxproj -> D:\c++\project_8\Debug\project_8.pdb (Full PDB)
